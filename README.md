@@ -16,10 +16,7 @@ The dataset used in this project can be found here.
 References:
 
     Various projects and inspirations from GitHub and Kaggle
-    "How Data Analytics Can Help Improve Your Supply Chain" article on LinkedIn by [Author Name]
-
-Contributing:
-We welcome contributions from the community. Feel free to submit pull requests, report issues, or suggest improvements.
+    "How Data Analytics Can Help Improve Your Supply Chain" article on LinkedIn.
 
 Authors:
 
